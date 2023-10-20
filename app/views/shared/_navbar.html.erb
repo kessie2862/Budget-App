@@ -1,0 +1,25 @@
+<nav role='navigation' class="back-link bg-primary sticky" style="width: 100%; text-align: center; padding: 1rem 0; margin-top: 0;">
+  <div class="container">
+      <% if back %>
+        <% if user_signed_in? && defined?(category) && request.path == category_transactions_path(category_id: category.id) %>
+          <%= link_to(home_categories_path(category_id: category.id), class: "btn btn-primary") do %>
+            <i class="fas fa-angle-left"></i>
+          <% end %>
+        <% else %>
+        <% end %>
+      <% end %>
+      <div class="text-capitalize text-white h4">
+        <%= @title %>
+      </div>
+    </div>
+
+  <div id="menuToggle">
+    <input type="checkbox" />
+    <span></span>
+    <span></span>
+    <span></span>
+
+    <ul id="menu">
+      <li><a href=""><%= button_to "Sign out", destroy_user_session_path, method: "delete" %></a></li>
+  </div>
+</nav>
