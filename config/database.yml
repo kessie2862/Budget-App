@@ -67,7 +67,4 @@ test:
 #
 production:
   <<: *default
-  url: <%= ENV["DATABASE_URL"] %>
-  database: budget_app_nefl
-  username: budget_app_nefl_user
-  password: <%= ENV["MYSITE_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
