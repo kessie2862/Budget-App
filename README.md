@@ -25,7 +25,7 @@
 # 📖 Budget_App <a name="about-project"></a>
 
 **Budget_App**
-This GitHub repository hosts a mobile web application designed for budget management. Easily track your expenses by organizing transactions into categories, enabling you to monitor your spending and its allocation.
+is a mobile web application designed for budget management. Easily track your expenses by organizing transactions into categories, enabling you to monitor your spending and its allocation.
 
 
 ## 🛠 Built With <a name="built-with"></a>
