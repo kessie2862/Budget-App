@@ -75,7 +75,7 @@ is a mobile web application designed for budget management. Easily track your ex
 
 ## 🚀 Walkthrough Demo <a name="live-demo"></a>
 
-- [Walkthrogh Demo Link]()
+- [Walkthrough Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,8 +144,8 @@ $ cd Budget_app
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Use file upload for saving image instaed of url**
-- [ ] **Add more functionality like Javascript to make app interactive**
+- [ ] **Implement file upload for images instead of URL**
+- [ ] **Add more functionalities to enhance user interactivity**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
