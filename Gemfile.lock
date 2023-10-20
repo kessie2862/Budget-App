@@ -293,7 +293,7 @@ DEPENDENCIES
   cancancan
   capybara
   debug
-  devise (~> 4.9)
+  devise (~> 4.9, >= 4.9.3)
   factory_bot_rails
   importmap-rails
   jbuilder
