@@ -2,7 +2,7 @@
 FactoryBot.define do
   factory :category do
     name { 'Sample Category' }
-    icon {'category.png'}
+    icon { 'category.png' }
     user
     # Add any other attributes you need
   end
