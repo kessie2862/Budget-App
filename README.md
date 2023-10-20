@@ -47,7 +47,7 @@ is a mobile web application designed for budget management. Easily track your ex
 </details>
 
 <details>
-<summary>Bulma CSS</summary>
+<summary>Bootstrap5</summary>
   <ul>
     <li><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap5</a></li>
   </ul>
