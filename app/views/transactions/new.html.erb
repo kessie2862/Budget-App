@@ -2,10 +2,6 @@
   <% @title = "New Transaction" %>
   <%= render "shared/navbar", locals: { title: @title }, back: true %>
 
-  <div class="back-link m-2 d-flex justify-content-end">
-    <%= link_to "Back to Transactions", category_transactions_path(@category), class: 'btn btn-primary mb-2' %>
-  </div>
-
   <%= form_with model: @entity, url: category_transactions_path(@category), class: "py-12" do |form| %>
     <div class="row justify-content-center mt-5 media">
           <div class="col-lg-6 p-5 border">
