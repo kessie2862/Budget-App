@@ -75,7 +75,7 @@ is a mobile web application designed for budget management. Easily track your ex
 
 ## 🚀 Walkthrough Demo <a name="live-demo"></a>
 
-- [Walkthrough Demo Link]()
+- [Walkthrough Demo Link](https://www.loom.com/share/ef3bca64baed405c8d1fa14ad5c333ec?sid=64a81412-87d0-4e2d-8779-4a6e0f03dc11)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
