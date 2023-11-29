@@ -42,7 +42,7 @@ is a mobile web app designed for budget management. Easily track your expenses b
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">postgres</a></li>
+    <li><a href="https://www.postgresql.org/">postgresql</a></li>
   </ul>
 </details>
 
